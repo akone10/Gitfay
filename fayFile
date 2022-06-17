@@ -1,1 +1,2 @@
 This is Fay first Practice on Git
+echo "Today is %date% and it's my birthday. My friends and I will go to church and pray at %time%"
